@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/speedtest.bin", "destination": "https://oss.blowswind.cn/speed/speedtest.bin" }
+  ]
+}
